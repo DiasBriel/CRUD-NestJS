@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <p>To learn more about Nest.JS, I created a simple CRUD using NestJS and MongoDB.</p>
+  <p>to help with my studies and projects, I created a simple CRUD using NestJS and MongoDB.</p>
 </div>
 
 ## App Content
